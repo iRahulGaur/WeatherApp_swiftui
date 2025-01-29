@@ -17,6 +17,6 @@ This app is a work sample for SwiftUI.
 
 ## Screenshots
 
-![screenshot](screenshots/screenshot1.png)
+![screenshot](Screenshots/screenshot1.png)
 
-![screenshot](screenshots/screenshot2.png)
+![screenshot](Screenshots/screenshot2.png)
