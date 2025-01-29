@@ -17,6 +17,8 @@ This app is a work sample for SwiftUI.
 
 ## Screenshots
 
+Screenshots have dummy data so ignore 200+ degree in the screen below.
+
 ![screenshot](Screenshots/screenshot1.png)
 
 ![screenshot](Screenshots/screenshot2.png)
