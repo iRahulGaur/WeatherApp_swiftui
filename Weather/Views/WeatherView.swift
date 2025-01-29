@@ -94,10 +94,11 @@ struct WeatherView: View {
                     .cornerRadius(20, corners: [.topLeft, .topRight])
             }
             
-        }.edgesIgnoringSafeArea(.bottom)
-            .background{
-                WeatherView.getBackgroundColor()
-            }
+        }
+        .edgesIgnoringSafeArea(.bottom)
+        .background{
+            WeatherView.getBackgroundColor()
+        }
     }
     
     static func getBackgroundColor() -> LinearGradient {
